@@ -20,8 +20,8 @@
 		"restorePortfolio": "Gjenopprett portefølje"
 	},
 	"restore": {
-		"confirm": "Confirm",
-		"enterSeedPhrase": "Enter Your Seed Phrase",
-		"exampleSeedPhrase": "Example: {{seedPhrase}} …"
+		"confirm": "Bekreft",
+		"enterSeedPhrase": "Skriv inn din \"seed phrase\"",
+		"exampleSeedPhrase": "Eksempel: {{seedPhrase}}…"
 	}
 }
