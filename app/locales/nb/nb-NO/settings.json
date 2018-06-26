@@ -1,7 +1,7 @@
 {
 	"app": "App",
-	"enabledCurrencies": "Enabled currencies",
-	"logOutAppSettings": "<0><0>Log out</0> to see app settings.</0>",
-	"portfolio": "Portfolio",
-	"title": "Settings"
+	"enabledCurrencies": "Aktiverte valutaer",
+	"logOutAppSettings": "<0><0>Logg ut</0> for å se app innstillinger.</0>",
+	"portfolio": "Portefølje",
+	"title": "Innstillinger"
 }
