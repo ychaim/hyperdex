@@ -22,6 +22,7 @@ i18next
 			'ru',
 			'tr',
 			'zh-CN',
+			'nb',
 		],
 		nonExplicitWhitelist: true,
 		ns: [
@@ -46,7 +47,7 @@ i18next
 	});
 
 app.on('ready', () => {
-	i18next.changeLanguage(app.getLocale());
+	i18next.changeLanguage('nb-NO');
 });
 
 ipc.answerRenderer('get-translations', () => i18next);

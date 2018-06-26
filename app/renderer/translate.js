@@ -11,7 +11,7 @@ const translate = namespaces => mem(namespaces ? instance.getFixedT(null, namesp
 
 	instance.init({
 		...i18n.options,
-		lng: remote.app.getLocale(),
+		lng: 'nb-NO',
 		resources: i18n.store.data,
 	});
 })();
