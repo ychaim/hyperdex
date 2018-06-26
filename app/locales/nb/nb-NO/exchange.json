@@ -8,21 +8,21 @@
 	},
 	"order": {
 		"amount": "Beløp {{symbol}}",
-		"averageVolume": "Avg Vol",
-		"buyOrders": "Buy Orders",
-		"failedTrade": "Failed to {{type}} {{baseCurrency}}",
-		"maxOnePendingSwap": "Only one pending swap at a time, try again in {{wait}} seconds.",
-		"maxPrice": "MAX",
-		"maxVolume": "Max Vol",
-		"price": "Price {{symbol}}",
-		"sellOrders": "Sell Orders",
-		"symbolBalance": "Balance: {{balance}} {{symbol}}",
-		"total": "Total {{symbol}}",
-		"unexpectedError": "Something unexpected happened. Are you sure you have enough UTXO?",
-		"worth": "This swap is worth {{swapWorthInUsd}}"
+		"averageVolume": "Snitt volum",
+		"buyOrders": "Kjøpe ordrer",
+		"failedTrade": "Kunne ikke {{type}} {{baseCurrency}}",
+		"maxOnePendingSwap": "Bare et ventende bytte om gangen, prøv igjen om {{wait}} sekunder.",
+		"maxPrice": "Maks",
+		"maxVolume": "Maksvolum",
+		"price": "Pris {{symbol}}",
+		"sellOrders": "Selge ordrer",
+		"symbolBalance": "Balanse: {{balance}} {{symbol}}",
+		"total": "Totalt {{symbol}}",
+		"unexpectedError": "Noe uventet skjedde. Er du sikker på at du har nok UTXO?",
+		"worth": "Dette byttet er verdt {{swapWorthInUsd}}"
 	},
 	"swaps": {
-		"all": "All",
-		"title": "Swaps"
+		"all": "Alle",
+		"title": "Bytter"
 	}
 }
