@@ -8,10 +8,10 @@
 		"next": "Neste",
 		"password": "Passord",
 		"securityDescription": "<0>Vi anbefaler å lagre det lokalt. <1>Lær mer om sikkerhet beste praksiser</1></0>",
-		"securityTitle": "Important: please back up your seed phrase now!",
-		"seedPhrase": "Seed Phrase for Your Portfolio",
-		"success": "New portfolio added!",
-		"title": "Create New Portfolio"
+		"securityTitle": "Viktig: Vennligst sikkerhetskopier ditt \"seed phrase\"!",
+		"seedPhrase": "\"Seed phrase\" for din portefølje",
+		"success": "Lagt til ny portefølje!",
+		"title": "Opprett ny portefølje"
 	},
 	"new": {
 		"createOrRestoreDescription": "Create a new one if you don't have a seed phrase yet.",
