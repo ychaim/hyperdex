@@ -7,7 +7,7 @@
 		"name": "Portefølje navn",
 		"next": "Neste",
 		"password": "Passord",
-		"securityDescription": "<0>We recommend storing it offline. <1>Learn more security best practices</1></0>",
+		"securityDescription": "<0>Vi anbefaler å lagre det lokalt. <1>Lær mer om sikkerhet beste praksiser</1></0>",
 		"securityTitle": "Important: please back up your seed phrase now!",
 		"seedPhrase": "Seed Phrase for Your Portfolio",
 		"success": "New portfolio added!",
