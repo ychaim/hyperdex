@@ -1,19 +1,19 @@
 {
-	"tempMessageDescription": "Simple atomic swaps with minimal user interaction",
-	"tempMessageTitle": "Coming soon…",
-	"title": "Swap",
+	"tempMessageDescription": "Enkle atombytter med minimal brukerinteraksjon",
+	"tempMessageTitle": "Kommer snart…",
+	"title": "Bytte",
 	"details": {
-		"copyDebugData": "Copy Swap Debug Data",
+		"copyDebugData": "Kopiere bytte feilsøkingsdata",
 		"for": "For",
-		"order": "Order",
-		"price": "Price",
-		"stats": "The executed price was {{percentCheaperThanRequested}}% cheaper than requested!",
-		"transactions": "Transactions",
-		"yourOffer": "Your offer",
-		"view": "View"
+		"order": "Ordre",
+		"price": "Pris",
+		"stats": "Den utforte prisen var {{percentCheaperThanRequested}}% billigere enn angitt!",
+		"transactions": "Transaksjoner",
+		"yourOffer": "Ditt bud",
+		"view": "Vis"
 	},
 	"list": {
-		"cancel": "Cancel",
+		"cancel": "Avbryt",
 		"empty": "No swaps yet"
 	}
 }
