@@ -14,10 +14,10 @@
 		"title": "Opprett ny portefølje"
 	},
 	"new": {
-		"createOrRestoreDescription": "Create a new one if you don't have a seed phrase yet.",
-		"createOrRestoreTitle": "<0>Would you like to create a new portfolio<1></1>or restore an existing one?</0>",
-		"createPortfolio": "Create New Portfolio",
-		"restorePortfolio": "Restore Portfolio"
+		"createOrRestoreDescription": "Opprett en ny \"seed phrase\" hvis du ikke har en.",
+		"createOrRestoreTitle": "<0>Du vil opprette en ny portefølje<1></1> eller gjenopprette en eksisterende?</0>",
+		"createPortfolio": "Opprett ny portefølje",
+		"restorePortfolio": "Gjenopprett portefølje"
 	},
 	"restore": {
 		"confirm": "Confirm",
